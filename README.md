@@ -4,6 +4,9 @@ I go by a few different names. Azraein. TheCaptainSly. And also Zach.
 I'm mainly a java programmer, who writes game engines, games and other types of toy projects! 
 
 
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=xslymaster&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=xslymaster&redirect=true)
+
+
 I also know the following languages:
   - Lua
   - C++
