@@ -15,6 +15,7 @@ I also know the following languages:
 Java Projects:
 
 - [ConsoleJavaEngine](https://github.com/CaptainSly/ConsoleJavaEngine) - A Console "Game" Engine written with Lanterna. Inspired by [Javidx9](https://github.com/OneLoneCoder/Javidx9)'s olcConsoleGameEngine. It has a working release too!
+- [JavaFX-Raycast](https://github.com/CaptainSly/JavaFX-Raycast) - A raycaster like Wolfenstein written in Java using JavaFX's Canvas. 
 
 
 I've started dabling in [Love2d](https://www.love2d.org)! 
