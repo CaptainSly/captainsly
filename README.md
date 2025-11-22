@@ -18,6 +18,9 @@ Java Projects:
 - [JavaFX-Raycast](https://github.com/CaptainSly/JavaFX-Raycast) - A raycaster like Wolfenstein written in Java using JavaFX's Canvas.
 - [TheGildedLibrary](https://github.com/CaptainSly/TheGildedLibrary) - A 3D Game Engine written with LWJGL. Inspired by game engines like Godot, Unreal, Unity, Creation Engine and Gamebryo. 
 
+Here are some Lua Projects that I've made
+- [PlasticUI](https://github.com/CaptainSly/PlasticUI) - A Backend Agnostic Retained Mode TUI. It can be used with anything that can draw/render to a surface of any kind.
+
 I've started dabling in [Love2d](https://www.love2d.org)! 
 Here is a list of Love2d projects I've made so far:
 - [LoveToastify](https://github.com/CaptainSly/LoveToastify) - Toast Notifications for Love2D
