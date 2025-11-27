@@ -3,13 +3,14 @@
 I go by a few different names. Azraein. TheCaptainSly. And also Zach.
 I'm mainly a java programmer, who writes game engines, games and other types of toy projects! 
 
+I have a love for Junk-food, extreme metal, and tinkering with things. 
 
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=xslymaster&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=xslymaster&redirect=true)
 
 
 I also know the following languages:
-  - Lua
-  - C++
+  - Lua (Partially, I don't code in it a lot, heavy reference needed for basic things, but once I get going, hoo boi)
+  - C++ (Yeah... I can print hello world to the terminal. Still learning have no clue how to write it yet)
 
 
 Java Projects:
