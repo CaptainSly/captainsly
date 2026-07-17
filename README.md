@@ -19,8 +19,7 @@ Java Projects:
 - [ConsoleJavaEngine](https://github.com/CaptainSly/ConsoleJavaEngine) - A Terminal or Console "Game" Engine written with Lanterna. Inspired by [Javidx9](https://github.com/OneLoneCoder/Javidx9)'s olcConsoleGameEngine. It has a working release too!
 - [JavaFX-Raycast](https://github.com/CaptainSly/JavaFX-Raycast) - A raycaster like Wolfenstein written in Java using JavaFX's Canvas.
 
-Here are some Lua Projects that I've made
-- [PlasticUI](https://github.com/CaptainSly/PlasticUI) - A Backend Agnostic Retained Mode TUI. It can be used with anything that can draw/render to a surface of any kind. Kinda abandonded, may pick it up again at a later date. 
+Here are some Lua Projects that I've made:
 
 I've started dabling in [Love2d](https://www.love2d.org)! 
 Here is a list of Love2d projects I've made so far:
