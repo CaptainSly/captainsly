@@ -5,7 +5,7 @@ I'm mainly a java programmer, who writes game engines, games and other types of 
 
 I have a love for Junk-food, extreme metal, and tinkering with things. 
 
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=xslymaster&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=xslymaster&redirect=true)
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=xslymaster&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&profanity=false&hide_remaster=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=xslymaster&redirect=true)
 
 
 I also know the following languages:
